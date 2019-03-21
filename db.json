@@ -1,6 +1,6 @@
 {
   "restaurants":[
-    {"name": "React Cafe","address":"123 Anyname St."},
-    {"name": "ABC Restaurant","address":"555 Bloor St."}
+    {id:0, "name": "React Cafe", "address":"123 Anyname St.", "image":"pizza.png", "rating":3.5},
+    {id:1, "name": "ABC Restaurant","address":"555 Bloor St.", "image":"pizza.png", "rating":4.0}
    ]
 }
